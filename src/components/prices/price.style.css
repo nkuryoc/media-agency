@@ -1,0 +1,23 @@
+.price-card{
+    border-radius: 10px;
+    border: none;
+    padding:40px;
+    background-color: #F9F9F9;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card-section-one{
+    text-align: justify;
+}
+
+.price-caption{
+    text-align: justify;
+}
+
+.card-section-two{
+    margin: 50px 0;
+}
+
+.card-section-three{
+    align-items: center;
+}

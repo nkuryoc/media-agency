@@ -1,0 +1,14 @@
+.callout-card{
+    border-radius: 10px;
+    border: none;
+    padding:40px 200px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card-section{
+    text-align: center;
+}
+
+.button-call{
+    padding: 20px 0 !important;
+}
